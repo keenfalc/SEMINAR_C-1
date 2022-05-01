@@ -18,5 +18,5 @@ if(number > 0)
 }
 else
 {
-    Console.WriteLine("Не вводите 0 и меньше, пидоры!");
+    Console.WriteLine("Не вводите 0 и меньше, глупенькие!");
 }
