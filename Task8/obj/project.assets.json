@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User-I\\Desktop\\geekBrains\\SEMINAR_C#1\\Task8\\Task8.csproj",
+      "projectUniqueName": "C:\\Users\\User-I\\Desktop\\geekBrains\\SEMINAR_C#1\\SEMINAR_C#1\\Task8\\Task8.csproj",
       "projectName": "Task8",
-      "projectPath": "C:\\Users\\User-I\\Desktop\\geekBrains\\SEMINAR_C#1\\Task8\\Task8.csproj",
+      "projectPath": "C:\\Users\\User-I\\Desktop\\geekBrains\\SEMINAR_C#1\\SEMINAR_C#1\\Task8\\Task8.csproj",
       "packagesPath": "C:\\Users\\User-I\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User-I\\Desktop\\geekBrains\\SEMINAR_C#1\\Task8\\obj\\",
+      "outputPath": "C:\\Users\\User-I\\Desktop\\geekBrains\\SEMINAR_C#1\\SEMINAR_C#1\\Task8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User-I\\AppData\\Roaming\\NuGet\\NuGet.Config"
