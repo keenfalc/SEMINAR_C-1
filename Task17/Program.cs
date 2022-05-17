@@ -7,11 +7,18 @@
 
 Console.WriteLine("Введите число");
 int number = Convert.ToInt32(Console.ReadLine());
-if (number <100) 
+if (number < 100) 
 {
     Console.WriteLine("Третьей цифры нет");
 }
 else if (number >= 100)
 {
-  Console.WriteLine($"Третья цифра числа: {number % 10}");
+    while (number >= 1000)
+    {
+        Console.WriteLine(number/10);
+    }
+    
+    {
+        Console.WriteLine($"Третья цифра числа: {number % 10}");
+    }  
 }
