@@ -11,11 +11,11 @@ if (number < 100)
 {
     Console.WriteLine("Третьей цифры нет");
 }
-else if (number >= 100)
+else 
 {
     while (number >= 1000)
     {
-        Console.WriteLine(number/10);
+        number /= 10;
     }
     
     {
