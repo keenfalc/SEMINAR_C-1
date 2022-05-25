@@ -4,7 +4,7 @@
 2, 4 -> 16
 */
 
-Console.WriteLine($"\nВозведение числа A в натуральную степень B");
+Console.WriteLine($"Возведение числа A в натуральную степень B");
 
 int Exponentiation(int numberA, int numberB)
 {
